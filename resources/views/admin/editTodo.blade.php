@@ -48,7 +48,7 @@
                             <!-- /.card-body -->
                             <div class="card-footer">
                                 <button type="submit" class="btn btn-success">Update</button>
-                                <button type="submit" class="btn btn-default float-right">Cancel</button>
+                                <button type="submit" class="btn btn-default float-right"><a href="/">Cancel</a></button>
                             </div>
                             <!-- /.card-footer -->
                         </form>
